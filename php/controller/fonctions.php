@@ -1,5 +1,4 @@
 <?php
-
 // CLASSE Form
 class Form 
 {

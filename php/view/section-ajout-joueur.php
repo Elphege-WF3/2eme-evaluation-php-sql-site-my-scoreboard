@@ -1,4 +1,3 @@
-
 <section>
     <h2>Voici le formulaire pour ajouter un joueur</h2>
 </section>

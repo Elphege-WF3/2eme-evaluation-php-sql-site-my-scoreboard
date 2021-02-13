@@ -1,5 +1,4 @@
 <?php
-
 function afficherJoueur() 
 {
     $tabLigne = lireTable("player", "id ASC");

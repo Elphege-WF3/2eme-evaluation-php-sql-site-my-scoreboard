@@ -1,4 +1,3 @@
-
 <section>
     <h2>Voici le formulaire pour ajouter un match</h2>
 </section>

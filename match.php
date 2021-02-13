@@ -10,5 +10,4 @@ $titre = "Match";
 require_once "php/view/header.php"; 
 require_once "php/view/section-match.php";
 require_once "php/view/footer.php";
-
 ?>

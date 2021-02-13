@@ -1,5 +1,4 @@
 <?php
-
 // ON VA CREER UNE CLASSE
 class Model
 {

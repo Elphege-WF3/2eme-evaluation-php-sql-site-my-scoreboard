@@ -1,5 +1,6 @@
 <section>
     <h2>Bienvenue sur la page de ce match</h2>
+    
     <?php afficherPageMatch() ?>
 
     <h3>Voici le formulaire pour ajouter un joueur à ce match</h3>
