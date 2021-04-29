@@ -78,7 +78,7 @@ div {
 }
 
 input, textarea, button {
-    width: 35%;
+    width: 30%;
     margin: 0.5rem;
     padding: 0.5rem;
     font-family: monospace;
