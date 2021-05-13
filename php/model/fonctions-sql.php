@@ -20,7 +20,7 @@ function envoyerRequeteSql ($requeteSQL, $tabAsso)
     $password   = '';           // SUR XAMPP
     $hostSQL    = 'localhost';  // 127.0.0.1
     $portSQL    = '3306';
-    $database   = 'database';       // LE SEUL A CHANGER EN LOCAL A CHAQUE PROJET
+    $database   = 'database2';       // LE SEUL A CHANGER EN LOCAL A CHAQUE PROJET
     
     $mysql        = "mysql:host=$hostSQL;port=$portSQL;dbname=$database;charset=utf8";
     
